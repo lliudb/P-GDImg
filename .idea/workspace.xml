@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a845d4f5-f0c7-4779-b74e-d40eb1f7078b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/applogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/popup-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/avatar_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/base_circle_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/bg_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/gradient_bottom_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/gradient_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/gradient_top_shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/quotes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/P-GDImg.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ldb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Color.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Font.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Rect.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/ShareImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/applogo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/read.md" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Color.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphic/Color.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="168" column="21" lean-forward="false" selection-start-line="168" selection-start-column="21" selection-end-line="234" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Font.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphic/Font.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphic/Rect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1138">
+              <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="34" />
+              <caret line="63" column="33" lean-forward="false" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="33" />
+              <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="35" />
+              <caret line="75" column="36" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="36" />
+              <caret line="85" column="30" lean-forward="false" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="30" />
+              <caret line="96" column="37" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="37" />
+              <caret line="108" column="38" lean-forward="false" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="38" />
+              <caret line="124" column="30" lean-forward="false" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="30" />
+              <caret line="136" column="33" lean-forward="false" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="33" />
+              <caret line="142" column="32" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="32" />
+              <caret line="148" column="34" lean-forward="false" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="34" />
+              <caret line="154" column="35" lean-forward="false" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="35" />
+              <caret line="164" column="29" lean-forward="false" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="29" />
+              <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="20" selection-end-line="175" selection-end-column="36" />
+              <caret line="187" column="37" lean-forward="false" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="37" />
+              <caret line="203" column="29" lean-forward="false" selection-start-line="203" selection-start-column="20" selection-end-line="203" selection-end-column="29" />
+              <caret line="236" column="34" lean-forward="false" selection-start-line="236" selection-start-column="20" selection-end-line="236" selection-end-column="34" />
+              <caret line="250" column="34" lean-forward="false" selection-start-line="250" selection-start-column="20" selection-end-line="250" selection-end-column="34" />
+              <caret line="259" column="29" lean-forward="false" selection-start-line="259" selection-start-column="20" selection-end-line="259" selection-end-column="29" />
+              <caret line="269" column="36" lean-forward="false" selection-start-line="269" selection-start-column="20" selection-end-line="269" selection-end-column="36" />
+              <caret line="285" column="35" lean-forward="false" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="35" />
+              <caret line="299" column="28" lean-forward="false" selection-start-line="299" selection-start-column="20" selection-end-line="299" selection-end-column="28" />
+              <caret line="308" column="38" lean-forward="false" selection-start-line="308" selection-start-column="20" selection-end-line="308" selection-end-column="38" />
+              <caret line="317" column="42" lean-forward="false" selection-start-line="317" selection-start-column="20" selection-end-line="317" selection-end-column="42" />
+              <caret line="328" column="29" lean-forward="false" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="29" />
+              <caret line="337" column="43" lean-forward="false" selection-start-line="337" selection-start-column="20" selection-end-line="337" selection-end-column="43" />
+              <caret line="346" column="39" lean-forward="false" selection-start-line="346" selection-start-column="20" selection-end-line="346" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShareImage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="338" column="80" lean-forward="true" selection-start-line="338" selection-start-column="28" selection-end-line="338" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Text.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Graphic/Text.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/read.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="510">
+                <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Graphic/Color.php" />
+        <option value="$PROJECT_DIR$/Graphic/Rect.php" />
+        <option value="$PROJECT_DIR$/Graphic/Text.php" />
+        <option value="$PROJECT_DIR$/Graphic/Font.php" />
+        <option value="$PROJECT_DIR$/example.php" />
+        <option value="$PROJECT_DIR$/Graphic/ShareImage.php" />
+        <option value="$PROJECT_DIR$/read.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P-GDImg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P-GDImg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P-GDImg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="P-GDImg" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Graphic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="/usr/local/lib/node_modules/eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="/usr/local/lib/node_modules/eslint" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="FullScreen" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a845d4f5-f0c7-4779-b74e-d40eb1f7078b" name="Default" comment="" />
+      <created>1558236551430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558236551430</updated>
+      <workItem from="1558236554010" duration="4096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/gd/gd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="1614" column="9" lean-forward="false" selection-start-line="1614" selection-start-column="9" selection-end-line="1614" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/Font.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/Color.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="168" column="21" lean-forward="false" selection-start-line="168" selection-start-column="21" selection-end-line="234" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/Rect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1138">
+          <caret line="57" column="34" lean-forward="false" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="34" />
+          <caret line="63" column="33" lean-forward="false" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="33" />
+          <caret line="69" column="35" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="35" />
+          <caret line="75" column="36" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="36" />
+          <caret line="85" column="30" lean-forward="false" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="30" />
+          <caret line="96" column="37" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="37" />
+          <caret line="108" column="38" lean-forward="false" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="38" />
+          <caret line="124" column="30" lean-forward="false" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="30" />
+          <caret line="136" column="33" lean-forward="false" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="33" />
+          <caret line="142" column="32" lean-forward="false" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="32" />
+          <caret line="148" column="34" lean-forward="false" selection-start-line="148" selection-start-column="20" selection-end-line="148" selection-end-column="34" />
+          <caret line="154" column="35" lean-forward="false" selection-start-line="154" selection-start-column="20" selection-end-line="154" selection-end-column="35" />
+          <caret line="164" column="29" lean-forward="false" selection-start-line="164" selection-start-column="20" selection-end-line="164" selection-end-column="29" />
+          <caret line="175" column="36" lean-forward="false" selection-start-line="175" selection-start-column="20" selection-end-line="175" selection-end-column="36" />
+          <caret line="187" column="37" lean-forward="false" selection-start-line="187" selection-start-column="20" selection-end-line="187" selection-end-column="37" />
+          <caret line="203" column="29" lean-forward="false" selection-start-line="203" selection-start-column="20" selection-end-line="203" selection-end-column="29" />
+          <caret line="236" column="34" lean-forward="false" selection-start-line="236" selection-start-column="20" selection-end-line="236" selection-end-column="34" />
+          <caret line="250" column="34" lean-forward="false" selection-start-line="250" selection-start-column="20" selection-end-line="250" selection-end-column="34" />
+          <caret line="259" column="29" lean-forward="false" selection-start-line="259" selection-start-column="20" selection-end-line="259" selection-end-column="29" />
+          <caret line="269" column="36" lean-forward="false" selection-start-line="269" selection-start-column="20" selection-end-line="269" selection-end-column="36" />
+          <caret line="285" column="35" lean-forward="false" selection-start-line="285" selection-start-column="20" selection-end-line="285" selection-end-column="35" />
+          <caret line="299" column="28" lean-forward="false" selection-start-line="299" selection-start-column="20" selection-end-line="299" selection-end-column="28" />
+          <caret line="308" column="38" lean-forward="false" selection-start-line="308" selection-start-column="20" selection-end-line="308" selection-end-column="38" />
+          <caret line="317" column="42" lean-forward="false" selection-start-line="317" selection-start-column="20" selection-end-line="317" selection-end-column="42" />
+          <caret line="328" column="29" lean-forward="false" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="29" />
+          <caret line="337" column="43" lean-forward="false" selection-start-line="337" selection-start-column="20" selection-end-line="337" selection-end-column="43" />
+          <caret line="346" column="39" lean-forward="false" selection-start-line="346" selection-start-column="20" selection-end-line="346" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="338" column="80" lean-forward="true" selection-start-line="338" selection-start-column="28" selection-end-line="338" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
