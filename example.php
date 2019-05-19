@@ -183,3 +183,6 @@ $bigImg
     ->copy($base_div->getImg(), 32, 110, 0, 0)
     ->copy($avatar->getImg(), 80, 56, 0, 0)
     ->copy($avatar_shadow, 68, 46, 0, 0);
+
+header('content-type:image/png');
+return $bigImg->outputImg();
