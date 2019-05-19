@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a845d4f5-f0c7-4779-b74e-d40eb1f7078b" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/read.md" afterPath="$PROJECT_DIR$/READ.MD" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/READ.MD" afterPath="$PROJECT_DIR$/README.MD" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
-              <caret line="323" column="29" lean-forward="true" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
+              <caret line="323" column="29" lean-forward="false" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -102,18 +102,18 @@
         <entry file="file://$PROJECT_DIR$/example.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
-              <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+              <caret line="110" column="1" lean-forward="false" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="READ.MD" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/READ.MD">
+      <file leaf-file-name="README.MD" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1166">
-                <caret line="86" column="32" lean-forward="false" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+              <first_editor relative-caret-position="191">
+                <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -300,12 +300,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558236551430</updated>
-      <workItem from="1558236554010" duration="5409000" />
+      <workItem from="1558236554010" duration="5458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5409000" />
+    <option name="totallyTimeSpent" value="5458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
@@ -359,7 +359,7 @@
     <entry file="file://$PROJECT_DIR$/example.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
-          <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          <caret line="110" column="1" lean-forward="false" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -409,7 +409,7 @@
     <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="323" column="29" lean-forward="true" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
+          <caret line="323" column="29" lean-forward="false" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -430,11 +430,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/READ.MD">
+    <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1166">
-            <caret line="86" column="32" lean-forward="false" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+          <first_editor relative-caret-position="191">
+            <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
