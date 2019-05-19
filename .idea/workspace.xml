@@ -2,37 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a845d4f5-f0c7-4779-b74e-d40eb1f7078b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/applogo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/icon01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/popup-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/avatar_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/base_circle_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/bg_logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/gradient_bottom_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/gradient_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/gradient_top_shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/shares/quotes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/P-GDImg.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/ldb.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Color.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Font.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Rect.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/ShareImage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Graphic/Text.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/applogo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/read.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Graphic/Text.php" afterPath="$PROJECT_DIR$/Graphic/Text.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/read.md" afterPath="$PROJECT_DIR$/read.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,8 +74,8 @@
       <file leaf-file-name="ShareImage.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="338" column="80" lean-forward="true" selection-start-line="338" selection-start-column="28" selection-end-line="338" selection-end-column="80" />
+            <state relative-caret-position="359">
+              <caret line="323" column="29" lean-forward="true" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -113,14 +84,22 @@
       <file leaf-file-name="Text.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Graphic/Text.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="1168">
+              <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+              <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="30" />
+              <caret line="92" column="32" lean-forward="false" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="32" />
+              <caret line="101" column="33" lean-forward="false" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="33" />
+              <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="27" />
+              <caret line="118" column="28" lean-forward="false" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="28" />
+              <caret line="136" column="27" lean-forward="false" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="27" />
+              <caret line="127" column="27" lean-forward="false" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="27" />
+              <caret line="145" column="31" lean-forward="false" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="104">
@@ -130,12 +109,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="read.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="read.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/read.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="510">
-                <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+              <first_editor relative-caret-position="1166">
+                <caret line="86" column="32" lean-forward="false" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -153,10 +132,10 @@
       <list>
         <option value="$PROJECT_DIR$/Graphic/Color.php" />
         <option value="$PROJECT_DIR$/Graphic/Rect.php" />
-        <option value="$PROJECT_DIR$/Graphic/Text.php" />
         <option value="$PROJECT_DIR$/Graphic/Font.php" />
         <option value="$PROJECT_DIR$/example.php" />
         <option value="$PROJECT_DIR$/Graphic/ShareImage.php" />
+        <option value="$PROJECT_DIR$/Graphic/Text.php" />
         <option value="$PROJECT_DIR$/read.md" />
       </list>
     </option>
@@ -322,12 +301,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558236551430</updated>
-      <workItem from="1558236554010" duration="4096000" />
+      <workItem from="1558236554010" duration="5336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4096000" />
+    <option name="totallyTimeSpent" value="5336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
@@ -371,26 +350,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Graphic/Font.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graphic/Text.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="29" column="7" lean-forward="false" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Graphic/Color.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
           <caret line="168" column="21" lean-forward="false" selection-start-line="168" selection-start-column="21" selection-end-line="234" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/Font.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="48" column="36" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -429,30 +408,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="323" column="29" lean-forward="true" selection-start-line="323" selection-start-column="29" selection-end-line="323" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic/Text.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="42" column="8" lean-forward="false" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <caret line="35" column="30" lean-forward="false" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="30" />
+          <caret line="92" column="32" lean-forward="false" selection-start-line="92" selection-start-column="20" selection-end-line="92" selection-end-column="32" />
+          <caret line="101" column="33" lean-forward="false" selection-start-line="101" selection-start-column="20" selection-end-line="101" selection-end-column="33" />
+          <caret line="109" column="27" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="27" />
+          <caret line="118" column="28" lean-forward="false" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="28" />
+          <caret line="136" column="27" lean-forward="false" selection-start-line="136" selection-start-column="20" selection-end-line="136" selection-end-column="27" />
+          <caret line="127" column="27" lean-forward="false" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="27" />
+          <caret line="145" column="31" lean-forward="false" selection-start-line="145" selection-start-column="20" selection-end-line="145" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="510">
-            <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <first_editor relative-caret-position="1166">
+            <caret line="86" column="32" lean-forward="false" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Graphic/ShareImage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="338" column="80" lean-forward="true" selection-start-line="338" selection-start-column="28" selection-end-line="338" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="110" column="1" lean-forward="true" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>

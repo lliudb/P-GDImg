@@ -40,7 +40,7 @@ class Text
         // 这几个变量分别是 字体大小, 角度, 字体名称, 字符串, 预设宽度
         $content = "";
         $letter = [];
-// 将字符串拆分成一个个单字 保存到数组 letter 中
+        // 将字符串拆分成一个个单字 保存到数组 letter 中
         for ($i = 0; $i < mb_strlen($this->text); $i++) {
             $l =  mb_substr($this->text, $i, 1, 'utf-8');
             if (strlen($l) >= 4) {
@@ -71,7 +71,7 @@ class Text
     }
 
 
-    public function offsetCorrect($fontBox)
+    private function offsetCorrect($fontBox)
     {
         $this->text_size = [
             $fontBox[0],
